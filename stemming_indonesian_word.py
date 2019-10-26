@@ -1,4 +1,4 @@
-import pandas as pd
+#jalankan profram dan masukan input berupa kalimat
 
 def readkamus(namafile):
     text_file = open(namafile, "r")
