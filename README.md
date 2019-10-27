@@ -20,4 +20,4 @@ ini adalah program untuk menemukan kata dasar dari suatu kata baku bahasa indone
 - hasil terdapat di konsol python
 
 ## Kontak
-- Andri Rahmanto - https://github.com/andrirahmanto - andrirahmanto777@gmail.com
+- Andri Rahmanto - [@andrirhmnt](https://github.com/andrirahmanto) - andrirahmanto777@gmail.com
